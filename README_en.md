@@ -2,7 +2,7 @@
 
 > **Completely Free** | **Lightweight** | **Powerful** | **Ready to Use**
 
-![EasyBr Syncer Interface](工具/1.png)
+![EasyBr Syncer Interface](1.png)
 
 ## 📖 Product Overview
 
@@ -37,7 +37,7 @@
 - Supports keyboard and mouse operation synchronization
 - Customizable synchronization modes
 
-![Browser Synchronization](工具/2.png)
+![Browser Synchronization](2.png)
 
 ### 📝 **Notepad Synchronization**
 - Real-time synchronization of multiple Notepad windows
@@ -59,7 +59,7 @@
 - Supports selective synchronization
 - Personalized operation experience
 
-![Advanced Settings](工具/3.png)
+![Advanced Settings](3.png)
 
 ## 📥 Download & Installation
 
@@ -158,3 +158,4 @@ Still struggling with inefficient multi-window operations? Download **EasyBr Fre
 ---
 
 *Last Updated: January 2025*
+
